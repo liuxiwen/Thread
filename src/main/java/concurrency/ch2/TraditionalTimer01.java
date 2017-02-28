@@ -7,7 +7,7 @@ import java.util.TimerTask;
 /**
  * Created by liuxiwen on 2017/2/27.
  */
-public class TraditionalTimer {
+public class TraditionalTimer01 {
 
     public static void main(String[] args) {
 
