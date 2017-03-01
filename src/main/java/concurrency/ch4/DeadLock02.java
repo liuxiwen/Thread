@@ -20,7 +20,6 @@ class MyRunnable implements Runnable {
     private boolean flag;// 用于判断，执行不同的同步代码块
 
     MyRunnable(boolean flag) {
-
         this.flag = flag;
     }
 
