@@ -1,7 +1,5 @@
 package concurrency.ch13;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
